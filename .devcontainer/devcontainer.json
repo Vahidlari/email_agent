@@ -23,6 +23,6 @@
 		"ms-python.black-formatter",
 		"eamodio.gitlens"
 	],
-	"postCreateCommand": "pip install ragora",
+	"postCreateCommand": ".devcontainer/post_create_scripts/setup_ragora.sh",
 	"remoteUser": "vscode"
 }
