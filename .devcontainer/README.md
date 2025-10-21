@@ -7,7 +7,7 @@ This devcontainer configuration provides a complete development environment for 
 - **Base Image**: `ghcr.io/vahidlari/aiapps/ai-dev:main-33e9578`
 - **Python Development**: Pre-configured Python environment with linting and formatting tools
 - **AI/ML Libraries**: Includes the Ragora package for AI knowledge base integration
-- **VS Code Extensions**: Python, Pylance, Flake8, and Black formatter extensions
+- **VS Code Extensions**: Python, Pylance, Flake8, Black formatter, and GitLens extensions
 
 ## Setup
 
@@ -20,6 +20,7 @@ This devcontainer configuration provides a complete development environment for 
 
 - Python development tools (linting, formatting, type checking)
 - VS Code Python extensions
+- GitLens for enhanced Git integration and history visualization
 - Ragora package for AI agent development
 
 ## Usage
