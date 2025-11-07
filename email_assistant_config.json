@@ -1,0 +1,10 @@
+{
+    "whitelist": ["vahid.lari@gmail.com", "Mohamed.a.ameen93@gmail.com"],
+    "blacklist": null,
+    "answer_patterns": {
+        "vahid.lari@gmail.com": {
+            "answer_type": "send",
+            "answer_pattern": "Hello Vahid, I am Nasala's special email assistant. I have found the following information for your question: {context_results}"
+        }
+    }
+}
